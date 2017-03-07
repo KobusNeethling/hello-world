@@ -1,2 +1,2 @@
-# hello-world
-Making changes so that I can test the commit function.
+# Practice
+Project meant to practice using GitHub and just some general coding.
